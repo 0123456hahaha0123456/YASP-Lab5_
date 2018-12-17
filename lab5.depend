@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1543906320 source:d:\russia\thirdsemester\yasp\lab5\lab5\main.c
+	"bmp.h"
+
+1543861972 d:\russia\thirdsemester\yasp\lab5\lab5\bmp.h
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+
+1543902532 source:d:\russia\thirdsemester\yasp\lab5\lab5\image_rot_stub.c
+	"bmp.h"
+
